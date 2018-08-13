@@ -122,11 +122,13 @@ if(have_posts()){
         </div>
 </section>
 		
-<div class="page-heading margin-titulo ">
-    <h2 class=" text-center">Encuentra tu neumático por tipo de <span class="span">vehículo</span></h2>
-</div>
-<section class="section-vehiculo container">
-            <div class="separador">
+
+<section class="section-vehiculo ">
+      <div class="page-heading margin-titulo ">
+          <h2 class=" text-center">Encuentra tu neumático por tipo de <span class="span">vehículo</span></h2>
+      </div>
+        <div class="container">
+          <div class="separador">
             <div class="row" data-carousel="0">
                   <div class="col-sm-6 col-md-4">
                       <div class="widget-landing-option mobile-hcol-1-1 hcol-1-3 first  current">
@@ -186,22 +188,23 @@ if(have_posts()){
                           </div>
                         </div>
                   </div>
+                  </div>
+                      <a href="" class="landing-link">Ver todos los tipos de vehículo</a>
+                   
+            </div>
 
-                        </div>
-                        <a href="" class="landing-link">Ver todos los tipos de vehículo</a>
-                       </div>
-               </div>
-
+        </div>
+  
 </section>
 
 
-<section class="section-marca container">
-    <div class="widget-landing marca">
+<section class="section-marca">
         <div class="page-heading">
             <h2 class=" text-center">Encuentra tu neumático por <span class="span">marca</span></h2>
         </div>
-            <div class=" separador">
-            <div class="columns-5" data-carousel="1">
+    <div class="widget-landing marca container">
+        <div class=" separador">
+            <div class="columns-5">
            
                     <div class="col-1-5">
                     <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
@@ -220,7 +223,7 @@ if(have_posts()){
                               <a href="">Firestone Winterhawk 3</a><br>
                               <a href="">Firestone Vanhawk 2</a><br>
                             </div>
-                    </div>
+                        </div>
                     </div>
 
                     <div class="col-1-5">
@@ -278,8 +281,9 @@ if(have_posts()){
                               <a href="">Firestone Winterhawk 3</a><br>
                               <a href="">Firestone Vanhawk 2</a><br>
                             </div>
+                        </div>
                     </div>
-                    </div>
+
                     <div class="col-1-5">
                     <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
                         <div class="widget-image">
@@ -297,22 +301,24 @@ if(have_posts()){
                               <a href="">Firestone Winterhawk 3</a><br>
                               <a href="">Firestone Vanhawk 2</a><br>
                             </div>
-                    </div>
-                    </div>
-                    </div>
+                         </div>
+                        </div>
+                        </div>
                     <a href="" class="landing-link">Ver todas las marcas de neumáticos</a>
-                    </div>
+                    
+                 </div>
              </div>
 </section>
    
            
-<section class="section-temporada container">
-    <div class="widget-landing season">
-      <div class="page-heading">
+<section class="section-temporada ">
+<div class="page-heading">
           <h2 class=" text-center">Encuentra tu neumático por <span class="span" >temporada</span></h2>
       </div>
-          <div class="separador">
+    <div class="widget-landing season container">
+       <div class="separador">
           <div class="row">
+
               <div class="col-sm-6 col-md-4">
                   <div class="widget-image"> 
                       <a href="" title="Verano">
@@ -343,6 +349,7 @@ if(have_posts()){
                       <a href="">Neumáticos para invierno Michelin</a><br>
                     </div>
                   </div>
+
                 <div class="col-sm-6 col-md-4">
                     <div class="widget-image">
                         <a href="" title="All season">  
@@ -355,18 +362,20 @@ if(have_posts()){
                           <div class="links">
                             <a href="">Neumáticos all season Michelin</a><br>
                           </div>                                                                                                                                                                                          </div>
-                </div>
+                   </div>
+                  
             <a href="" class="landing-link">Ver todas las temporadas de neumáticos</a>
         </div>
-      
+        </div>
       </div>
 </section>
 
-<section class="section-dimensiones container">
-      <div class="widget-landing dimensions">
-          <div class="page-heading">
-              <h2 class="text-center">Encuentra tus neumáticos por <span class="span" >dimensiones</span></h2>
-          </div> 
+<section class="section-dimensiones">
+    <div class="page-heading">
+        <h2 class="text-center">Encuentra tus neumáticos por <span class="span" >dimensiones</span></h2>
+    </div> 
+      <div class="widget-landing dimensions container">
+          
             <div class=" separador">
             <div class="columns-5">
                 <div class="col-1-5">

@@ -44,11 +44,12 @@ if(have_posts()){
 	while(have_posts()){
 		the_post();
 		?>
-<section class=" container">
-    <div class="widget-landing season">
-      <div class="page-heading titulo">
+<section class=" section-oferta">
+<div class="page-heading titulo">
           <h2 class="text-center">Encuentra tu neumático por <span class="span" >temporada</span></h2>
       </div>
+    <div class="widget-landing season container">
+      
           <div class=" separador">
           <div class="row">
               <div class="col-sm-6 col-md-4">
@@ -81,11 +82,11 @@ if(have_posts()){
 </section>
 
 
-<section class="section-dimensiones container">
-      <div class="widget-landing dimensions">
-          <div class="page-heading">
+<section class="section-dimensiones">
+<div class="page-heading">
               <h2 class="h2 container text-center">Encuentra tus neumáticos por <span class="span" >dimensiones</span></h2>
           </div> 
+      <div class="widget-landing dimensions container">
             <div class="separador">
             <div class="row">
                 <div class="col-sm-4 col-md-3 item e1">

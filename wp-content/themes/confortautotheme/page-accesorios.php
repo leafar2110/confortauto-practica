@@ -45,11 +45,11 @@ if(have_posts()){
 		the_post();
 		?>
 <section class="section-accesorio text-center">
-    <div class="widget-landing dimensions"> 
-          <div class="page-heading">
-              <h2 class="container text-center">ENCUENTRA EQUIPOS DE <span class="span" >SONIDO, MULTIMEDIA Y NAVEGACIÓN</span></h2>
-          </div> 
-            <div class="container">
+     <div class="page-heading">
+          <h2 class="container text-center">ENCUENTRA EQUIPOS DE <span class="span" >SONIDO, MULTIMEDIA Y NAVEGACIÓN</span></h2>
+	  </div>
+	   
+        <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-md-3 item e1">
                   <div class="links widget-image">
@@ -57,8 +57,7 @@ if(have_posts()){
 					  <div class="contenedor">
 					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ.png" alt="Generic tyre">
 							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
+					  </div> 
                         </a>
                     </div>
 				</div>
@@ -69,7 +68,6 @@ if(have_posts()){
 					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ2.png" alt="Generic tyre">
 							<span class="description-service text1">Neúmatico 205/55 R16</span>
 					  </div>
-                       
                         </a>
                     </div>
 				</div>
@@ -79,40 +77,33 @@ if(have_posts()){
 					  <div class="contenedor">
 					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ3.png" alt="Generic tyre">
 							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
+					  </div>                     
                         </a>
                     </div>
 				</div>
+
 				<div class="col-sm-6 col-md-3 item e1">
                   <div class="links widget-image">
 					  <a href="" title="205/55 R16">
 					  <div class="contenedor">
 					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ4.png" alt="Generic tyre">
 							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
+					  </div>  
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
-            <a href="" class="landing-link">Accede a todos los equipos de sonido, multimedia y navegación
-</a>
-        </div>
+
+            <a href="" class="landing-link">Accede a todos los equipos de sonido, multimedia y navegación</a>
+		</div>
+	</div>
 				
-   </div>
 </section>
     
 <section class="section-accesorio text-center">
-    <div class="widget-landing dimensions"> 
-          <div class="page-heading">
+		<div class="page-heading">
               <h2 class="container text-center">ENCUENTRA ACCESORIOS DE <span class="span" >EQUIPAMIENTO EXTERIOR</span></h2>
           </div> 
+          
             <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-md-3 item e1">
@@ -159,15 +150,8 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
-            <a href="" class="landing-link">Accede a todos los accesorios de equipamiento exterior</a>
-        </div>
-				
+             <a href="" class="landing-link">Accede a todos los accesorios de equipamiento exterior</a>
+        </div>			
    </div>
 </section>
 <section class="section-accesorio text-center">
@@ -221,15 +205,7 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
-            <a href="" class="landing-link">
-        Accede a todo el material de limpieza y cuidado del vehí­culo
-    </a>
+            <a href="" class="landing-link"> Accede a todo el material de limpieza y cuidado del vehí­culo</a>
         </div>
 				
    </div>
@@ -285,15 +261,7 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
-            <a href="" class="landing-link">
-        Accede a todos los productos de seguridad infantil
-    </a>
+            <a href="" class="landing-link">Accede a todos los productos de seguridad infantil</a>
         </div>
 				
    </div>
@@ -349,19 +317,11 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
-            <a href="" class="landing-link">
-        Accede a todos los productos de equipamiento interior
-    </a>
-        </div>
-				
+            <a href="" class="landing-link">Accede a todos los productos de equipamiento interior</a>
+        </div>			
    </div>
 </section>
+
 <section class="section-accesorio text-center">
     <div class="widget-landing dimensions"> 
           <div class="page-heading">
@@ -413,22 +373,14 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-                       
-                        </a>
-                    </div>
-                </div>
-                
-        </div>
             <a href="" class="landing-link">Ver todas las temporadas de neumáticos</a>
         </div>
-				
-   </div>
-
-   <div class="container">
+	</div>
+</section>
+<div class="container">
 <p class="text-justify texto">Si buscas algún accesorio para tu coche o furgoneta, ya sea de interior o de exterior, te ofrecemos una amplia gama de artículos con los que equipar tu vehículo y personalizarlo.</p>
 
 </div>
-</section>
 <?php	
 	}
 }else {

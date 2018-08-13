@@ -202,7 +202,7 @@ body a:hover{
 	margin: 50px 0;
 }
 .margin-titulo{
-	margin-top: 34px
+	margin-top: 20px;
 }
 
 /*Responsive moviles*/
@@ -221,11 +221,14 @@ body a:hover{
 		
 	}
 	.botones{
-		justify-content:  space-between;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 10px;
 	}
 	.botones button{
-		width: 100%; 
-    	font-size: 9px;
+		width: 100%;
+		padding: 10px 0;
+		font-size: 10px;
 	}
 	.columns-5 {
 		display: block;
@@ -234,6 +237,9 @@ body a:hover{
 .col-1-5 {
      width: 100%; 
 }
+	.page-heading h2{
+		font-size: 18px;
+	}
 }
 
 
