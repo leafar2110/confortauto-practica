@@ -1,0 +1,12 @@
+2018-07-20T14:06:53+00:00 CRITICAL Call to undefined method WooCommerce::get()
+
+2018-07-20T14:07:01+00:00 CRITICAL Call to undefined method WooCommerce::get()
+
+2018-07-20T14:07:02+00:00 CRITICAL Call to undefined method WooCommerce::get()
+
+2018-07-20T14:08:38+00:00 CRITICAL Call to undefined function jaw_template_inc_counter()
+
+2018-07-20T14:08:38+00:00 CRITICAL Call to undefined function jaw_template_inc_counter()
+
+2018-07-20T14:14:46+00:00 CRITICAL Maximum execution time of 300 seconds exceeded
+

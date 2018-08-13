@@ -1,0 +1,10 @@
+2018-07-19T13:44:03+00:00 CRITICAL Class 'jwRender' not found
+
+2018-07-19T13:44:17+00:00 CRITICAL Call to undefined function jaw_template_inc_counter()
+
+2018-07-19T20:16:34+00:00 CRITICAL Call to undefined method WooCommerce::get()
+
+2018-07-19T20:28:23+00:00 CRITICAL Class 'jwOpt' not found
+
+2018-07-19T20:28:59+00:00 CRITICAL Call to undefined method WooCommerce::get()
+
