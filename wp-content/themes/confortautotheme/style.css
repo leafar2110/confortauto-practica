@@ -32,6 +32,13 @@ body a:hover{
 	text-decoration:none;
 }
 
+
+
+
+
+
+
+
 .section-accesorio h2{
 	font-size: 25px;
 }
@@ -45,8 +52,6 @@ body a:hover{
 .limit-size{
 	height: 84px;
 }
-
-
 
 .span{
 	color: yellow;
@@ -206,14 +211,6 @@ body a:hover{
 }
 
 /*Responsive moviles*/
-@media (min-width: 0px) and (max-width: 360px){
-	
-	
-}
-@media (min-width: 361px) and (max-width: 500px){
-
-	
-}
 @media (min-width: 0px) and (max-width: 767px){
 	.landing-link {
 		padding: 10px;
@@ -259,7 +256,7 @@ body a:hover{
 	
 }
 
-
+/*Responsive tablet*/
 @media (min-width: 768px) and (max-width: 991px) {
 	.bd-neumatico {
 		display: grid;
@@ -272,13 +269,16 @@ body a:hover{
 	.description-service {
 		padding: 25px 0;
 	}
+	.section-accesorio h2 {
+		font-size: 20px;
+	}
+	.page-heading{
+		padding: 10px 0;
+		margin-top: -2px
+	}
 	
 }
 
-
-@media (min-width: 992px) and (max-width: 1024px){
-	
-}
 
 
 

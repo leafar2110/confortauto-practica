@@ -99,15 +99,14 @@ if(have_posts()){
                             <select class=".select" name="season" id="season">
                               <option value="">Todos</option>
                               <option value="all season">All season</option><option value="invierno">Invierno</option><option value="verano">Verano</option>                        </select>
-                        
+
                       </div>
                     <div class="col-1-8">
                         <label for="antipinchazos">Antipinchazos</label>
                           <select class=".select" name="antipinchazos" id="antipinchazos">
                             <option value="">Todos</option>
                             <option value="no">No</option><option value="si">Si</option>                        </select>
-                    </div>
-
+                         </div>
                       </div>
                       
                     <div class="botones">
@@ -138,7 +137,7 @@ if(have_posts()){
                                 <span> <br>Neumáticos para  Turismo</span>
                             </a>
                             </div>
-                          <div class="description"> Compra neumáticos para turismos en Feu Vert. Ofrecemos las mejores marcas y modelos para tu coche.                                </div>
+                          <div class="description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo. </div>
                           <div class="links">
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
@@ -159,7 +158,7 @@ if(have_posts()){
                                 <span> <br>Neumáticos para  Turismo</span>
                             </a>
                             </div>
-                          <div class="description"> Compra neumáticos para turismos en Feu Vert. Ofrecemos las mejores marcas y modelos para tu coche.                                </div>
+                          <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo.                                </div>
                           <div class="links">
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
@@ -178,7 +177,7 @@ if(have_posts()){
                                 <span> <br>Neumáticos para  Turismo</span>
                             </a>
                             </div>
-                          <div class="description"> Compra neumáticos para turismos en Feu Vert. Ofrecemos las mejores marcas y modelos para tu coche.                                </div>
+                          <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo.                                </div>
                           <div class="links">
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
@@ -422,23 +421,8 @@ if(have_posts()){
           <a class="landing-link" href="">Ver todas las neumáticos por dimensiones</a>
       </div>       
    </div>
-</section>
-
-
-<div class="container">
-<p class="text-justify texto">
-<br>Cambia tus neumáticos también comprando online. En nuestra tienda online de neumáticos y en nuestros autocentros, encontrarás las mejores marcas con los precios más bajos garantizados. Nuestro objetivo es hacer de la compra de tus neumáticos, una experiencia satisfactoria y ofrecerte la mejor opción de ruedas acorde a las necesidades de tu vehículo. Al elegir la marca, modelo y especificaciones de los neumáticos ideales para tu vehículo, podrás seleccionar el autocentro más cercano a tu domicilio dentro de la red asociada a Feu Vert.
-
-<br><br>Comprando y reservando cita para el montaje de los neumáticos desde nuestra tienda online, te ofrecemos la revisión de tu vehículo de forma gratuita y garantía de por vida para tus neumáticos*.
-
-<br><br>En nuestra página encontrarás información de interés para saber cómo elegir los mejores neumáticos para tu vehículo según su uso, por ejemplo, los neumáticos utilitarios y básicos diseñados para el día a día y de uso urbano; neumáticos pensados en la seguridad y confort de tu vehículo en marcha; neumáticos deportivos con mejor agarre, prestaciones más extremas y frenadas más cortas; neumáticos mixtos y 4x4 para obtener el máximo rendimiento; neumáticos para profesionales para aquellos usuarios en donde su vehículo se convierte en un medio de trabajo y los neumáticos deben ofrecer la mayor seguridad y durabilidad posible; por último los neumáticos especiales para poder seguir circulando cierta distancia sin importar que la rueda de tu vehículo haya sufrido un pinchazo.
-
-<br><br>En Feu Vert trabajamos con expertos en neumáticos dispuestos a ayudarte en la selección de las ruedas que mejor se adapten a tu estilo de conducción y a los requerimientos de tu vehículo. Consulta nuestro catálogo de neumáticos online los precios y ofertas disponibles para comprar tus neumáticos sin complicaciones.</p>
-
-</div>
-   
+</section>   
        
-
 <?php	
 	}
 }else {

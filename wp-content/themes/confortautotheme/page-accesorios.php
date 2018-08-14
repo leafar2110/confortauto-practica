@@ -156,7 +156,7 @@ if(have_posts()){
 <section class="section-accesorio text-center">
     <div class="widget-landing dimensions"> 
           <div class="page-heading">
-              <h2 class="h2 container text-center">ENCUENTRA MATERIAL DE <span class="span" >LIMPIEZA Y CUIDADO DEL VEHÍ­CULO </span></h2>
+              <h2 class="container text-center">ENCUENTRA MATERIAL DE <span class="span" >LIMPIEZA Y CUIDADO DEL VEHÍ­CULO </span></h2>
           </div> 
             <div class="container">
             <div class="row">
@@ -212,7 +212,7 @@ if(have_posts()){
 <section class="section-accesorio text-center">
     <div class="widget-landing dimensions"> 
           <div class="page-heading">
-              <h2 class="h2 container text-center">ENCUENTRA PRODUCTOS DE<span class="span" > SEGURIDAD INFANTIL</span></h2>
+              <h2 class="container text-center">ENCUENTRA PRODUCTOS DE<span class="span" > SEGURIDAD INFANTIL</span></h2>
           </div> 
             <div class="container">
             <div class="row">
@@ -268,7 +268,7 @@ if(have_posts()){
 <section class="section-accesorio text-center">
     <div class="widget-landing dimensions"> 
           <div class="page-heading">
-              <h2 class="h2 container text-center">ENCUENTRA PRODUCTOS DE  <span class="span" >EQUIPAMIENTO INTERIOR</span></h2>
+              <h2 class=" container text-center">ENCUENTRA PRODUCTOS DE  <span class="span" >EQUIPAMIENTO INTERIOR</span></h2>
           </div> 
             <div class="container">
             <div class="row">
@@ -322,66 +322,6 @@ if(have_posts()){
    </div>
 </section>
 
-<section class="section-accesorio text-center">
-    <div class="widget-landing dimensions"> 
-          <div class="page-heading">
-              <h2 class="h2 container text-center">Encuentra tus neumáticos por <span class="span" >dimensiones</span></h2>
-          </div> 
-            <div class="container">
-            <div class="row">
-                <div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
-                        </a>
-                    </div>
-				</div>
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ2.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
-                        </a>
-                    </div>
-				</div>
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ3.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
-                        </a>
-                    </div>
-				</div>
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ4.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                       
-                        </a>
-                    </div>
-				</div>
-           
-		</div>
-		<a href="" class="landing-link">Ver todas las temporadas de neumáticos</a>
-	</div>
-</section>
-<div class="container">
-<p class="text-justify texto">Si buscas algún accesorio para tu coche o furgoneta, ya sea de interior o de exterior, te ofrecemos una amplia gama de artículos con los que equipar tu vehículo y personalizarlo.</p>
-
-</div>
 <?php	
 	}
 }else {

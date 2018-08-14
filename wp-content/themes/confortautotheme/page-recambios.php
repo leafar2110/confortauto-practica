@@ -101,10 +101,7 @@ if(have_posts()){
                 </div>
    </div>
 
-   <div class="container">
-<p class="text-justify texto">¿Necesitas recambios para el mantenimiento de tu coche o furgoneta? Si eres de los que te gusta mantener tú mismo tu coche aquí tienes todos los recambios necesarios para ello. Aunque si quieres también te lo montamos. Todos los recambios para tu coche con la mejor relación calidad/precio. En Feu Vert encontrarás una amplia variedad de recambios para el mantenimiento de tu coche: pastillas y discos de freno, amortiguadores, rótulas, distribución, bomba de agua, embrague, baterías, bujías, motor de arranque, alternador, tubos de escape, filtros de aceite y aire... junto con todas las herramientas necesarias.  </p>
-
-</div>
+ 
 </section>
 
 

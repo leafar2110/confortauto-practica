@@ -213,11 +213,7 @@ if(have_posts()){
 				
    </div>
 </section>
-<div class="container">
-<p class="text-justify texto">
-En la red de autocentros ( taller + tienda) de Feu Vert te daremos la mejor atención y garantía para el mantenimiento de tu coche: cambios de aceite y filtro, pastillas de freno, montaje de amortiguadores, tubos de escape, baterías de coche, carga de aire acondicionado, correa de distribución, embrague... En definitiva, tu coche en buenas manos, con calidad y garantía al mejor precio. Llámanos y te asesoraremos.</p>
 
-</div>
 	
 <?php	
 	}
