@@ -357,7 +357,7 @@ if(have_posts()){
                 <div class="col-1-5">
                   <div class="links widget-image">
                       <a href="" title="205/55 R16">
-                        <img class="img" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
+                        <img class="img-dimension" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
                           <span>Neúmatico 205/55 R16</span>
                         </a>
                     </div>
@@ -365,7 +365,7 @@ if(have_posts()){
                 <div class="col-1-5">
                   <div class="links widget-image">
                       <a href="" title="205/55 R16">
-                        <img class="img" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
+                        <img class="img-dimension" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
                           <span>Neúmatico 205/55 R16</span>
                         </a>
                     </div>
@@ -373,7 +373,7 @@ if(have_posts()){
                 <div class="col-1-5">
                   <div class="links widget-image">
                       <a href="" title="205/55 R16">
-                        <img class="img" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
+                        <img class="img-dimension" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
                           <span>Neúmatico 205/55 R16</span>
                         </a>
                     </div>
@@ -381,7 +381,7 @@ if(have_posts()){
                 <div class="col-1-5">
                   <div class="links widget-image">
                       <a href="" title="205/55 R16">
-                        <img class="img" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
+                        <img class="img-dimension" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
                           <span>Neúmatico 205/55 R16</span>
                         </a>
                     </div>
@@ -389,7 +389,7 @@ if(have_posts()){
                 <div class="col-1-5">
                   <div class="links widget-image">
                       <a href="" title="205/55 R16">
-                        <img class="img" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
+                        <img class="img-dimension" src="<?php bloginfo('template_url'); ?>/images/tyres.png" alt="Generic tyre">
                           <span>Neúmatico 205/55 R16</span>
                         </a>
                     </div>
