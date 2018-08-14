@@ -51,50 +51,49 @@ if(have_posts()){
 	   
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div> 
-                        </a>
-                    </div>
-				</div>
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ2.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>
-                        </a>
-                    </div>
-				</div>
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ3.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>                     
-                        </a>
-                    </div>
-				</div>
+					<div class="col-sm-6 col-md-3 item e1">
+					<div class="links widget-image">
+						<a href="" title="205/55 R16">
+						<div class="contenedor">
+							<img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ.png" alt="Generic tyre">
+								<span class="description-service text1">Neúmatico 205/55 R16</span>
+						</div> 
+							</a>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-3 item e1">
+					<div class="links widget-image">
+						<a href="" title="205/55 R16">
+						<div class="contenedor">
+							<img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ2.png" alt="Generic tyre">
+								<span class="description-service text1">Neúmatico 205/55 R16</span>
+						</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-3 item e1">
+					<div class="links widget-image">
+						<a href="" title="205/55 R16">
+						<div class="contenedor">
+							<img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ3.png" alt="Generic tyre">
+								<span class="description-service text1">Neúmatico 205/55 R16</span>
+						</div>                     
+							</a>
+						</div>
+					</div>
 
-				<div class="col-sm-6 col-md-3 item e1">
-                  <div class="links widget-image">
-					  <a href="" title="205/55 R16">
-					  <div class="contenedor">
-					  	  <img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ4.png" alt="Generic tyre">
-							<span class="description-service text1">Neúmatico 205/55 R16</span>
-					  </div>  
-                        </a>
-                    </div>
-				</div>
-
-            <a href="" class="landing-link">Accede a todos los equipos de sonido, multimedia y navegación</a>
+					<div class="col-sm-6 col-md-3 item e1">
+					<div class="links widget-image">
+						<a href="" title="205/55 R16">
+						<div class="contenedor">
+							<img class="img img-fluid" src="<?php bloginfo('template_url'); ?>/images/categ4.png" alt="Generic tyre">
+								<span class="description-service text1">Neúmatico 205/55 R16</span>
+						</div>  
+							</a>
+						</div>
+					</div>
 		</div>
+		<a href="" class="landing-link">Accede a todos los equipos de sonido, multimedia y navegación</a>
 	</div>
 				
 </section>
@@ -150,8 +149,8 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-             <a href="" class="landing-link">Accede a todos los accesorios de equipamiento exterior</a>
-        </div>			
+		</div>		
+		<a href="" class="landing-link">Accede a todos los accesorios de equipamiento exterior</a>	
    </div>
 </section>
 <section class="section-accesorio text-center">
@@ -205,9 +204,9 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-            <a href="" class="landing-link"> Accede a todo el material de limpieza y cuidado del vehí­culo</a>
+           
         </div>
-				
+		<a href="" class="landing-link"> Accede a todo el material de limpieza y cuidado del vehí­culo</a>
    </div>
 </section>
 <section class="section-accesorio text-center">
@@ -261,9 +260,9 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-            <a href="" class="landing-link">Accede a todos los productos de seguridad infantil</a>
+           
         </div>
-				
+		<a href="" class="landing-link">Accede a todos los productos de seguridad infantil</a>	
    </div>
 </section>
 <section class="section-accesorio text-center">
@@ -317,8 +316,9 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-            <a href="" class="landing-link">Accede a todos los productos de equipamiento interior</a>
-        </div>			
+            
+		</div>
+		<a href="" class="landing-link">Accede a todos los productos de equipamiento interior</a>			
    </div>
 </section>
 
@@ -373,8 +373,9 @@ if(have_posts()){
                         </a>
                     </div>
 				</div>
-            <a href="" class="landing-link">Ver todas las temporadas de neumáticos</a>
-        </div>
+           
+		</div>
+		<a href="" class="landing-link">Ver todas las temporadas de neumáticos</a>
 	</div>
 </section>
 <div class="container">
