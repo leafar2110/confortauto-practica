@@ -91,7 +91,7 @@ if(have_posts()){
 
                               <select class=".select" name="marca" id="marca">
                                 <option value="">Todos</option>
-                                <option value="continental">Continental</option><option value="dunlop">Dunlop</option><option value="feuvert">Feuvert</option><option value="fire">Fire</option><option value="firestone">Firestone</option><option value="michelin">Michelin</option><option value="orium">Orium</option><option value="pirelli">Pirelli</option>                        </select>
+                                <option value="continental">Continental</option><option value="dunlop">Dunlop</option><option value=""></option><option value="fire">Fire</option><option value="firestone">Firestone</option><option value="michelin">Michelin</option><option value="orium">Orium</option><option value="pirelli">Pirelli</option>                        </select>
                         
                       </div>
                       <div class="col-1-8">
@@ -142,7 +142,6 @@ if(have_posts()){
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
                               <a href="">Neumáticos Firestone para turismos</a><br>
-                              <a href="">Neumaticos FeuVert para turismos</a><br>
                               <a href="">Neumaticos Orium para turismos</a><br>
                           </div>
                         </div>
@@ -163,7 +162,6 @@ if(have_posts()){
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
                               <a href="">Neumáticos Firestone para turismos</a><br>
-                              <a href="">Neumaticos FeuVert para turismos</a><br>
                               <a href="">Neumaticos Orium para turismos</a><br>
                           </div>
                         </div>
@@ -182,7 +180,6 @@ if(have_posts()){
                               <a href="">Neumáticos Michelin para turismos</a><br>
                               <a href="">Neumáticos Continental para turismos</a><br>
                               <a href="">Neumáticos Firestone para turismos</a><br>
-                              <a href="">Neumaticos FeuVert para turismos</a><br>
                               <a href="">Neumaticos Orium para turismos</a><br>
                           </div>
                         </div>
@@ -203,10 +200,10 @@ if(have_posts()){
         </div>
     <div class="widget-landing marca container">
         <div class=" separador">
-            <div class="columns-5">
+            <div class="">
            
-                    <div class="col-1-5">
-                    <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
+                    <div class=" col-sm-6 col-md-3">
+                    <div class="widget-landing-option current">
                         <div class="widget-image">
                           <a href="" title="FIRESTONE">
                               <img class="img" src="<?php bloginfo('template_url'); ?>/images/firestone.jpg" width="100%" alt="Neumáticos FIRESTONE">
@@ -224,28 +221,8 @@ if(have_posts()){
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-1-5">
-                    <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
-                        <div class="widget-image">
-                          <a href="" title="FIRESTONE">
-                              <img class="img" src="<?php bloginfo('template_url'); ?>/images/feuvert.jpg" width="100%" alt="Neumáticos FIRESTONE">
-                              <span>Neumáticos  FIRESTONE</span>
-                            </a>
-                        </div>
-                        <div class="description">Acierta con los neumáticos Firestone y encuéntralos a los precios más bajos.                                </div>
-                            <div class="links">
-                              <a href="">Firestone Roadhawk</a><br>
-                              <a href="">Firestone Multihawk 2</a><br>
-                              <a href="">Firestone TZ</a><br>
-                              <a href="">Firestone Firehawk</a><br>
-                              <a href="">Firestone Winterhawk 3</a><br>
-                              <a href="">Firestone Vanhawk 2</a><br>
-                            </div>
-                    </div>
-                    </div>
-                    <div class="col-1-5">
-                    <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
+                    <div class=" col-sm-6 col-md-3">
+                    <div class="widget-landing-option current">
                         <div class="widget-image">
                           <a href="" title="FIRESTONE">
                               <img class="img" src="<?php bloginfo('template_url'); ?>/images/michelin.jpg" width="100%" alt="Neumáticos FIRESTONE">
@@ -263,8 +240,8 @@ if(have_posts()){
                             </div>
                     </div>
                     </div>
-                    <div class="col-1-5">
-                    <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
+                    <div class=" col-sm-6 col-md-3">
+                    <div class="widget-landing-option current">
                         <div class="widget-image">
                           <a href="" title="FIRESTONE">
                               <img class="img" src="<?php bloginfo('template_url'); ?>/images/continental.jpg" width="100%" alt="Neumáticos FIRESTONE">
@@ -283,8 +260,8 @@ if(have_posts()){
                         </div>
                     </div>
 
-                    <div class="col-1-5">
-                    <div class="widget-landing-option mobile-hcol-1-1 hcol-1-5 first  current">
+                    <div class=" col-sm-6 col-md-3">
+                    <div class="widget-landing-option current">
                         <div class="widget-image">
                           <a href="" title="FIRESTONE">
                               <img class="img" src="<?php bloginfo('template_url'); ?>/images/orium.jpg" width="100%" alt="Neumáticos FIRESTONE">
@@ -326,7 +303,7 @@ if(have_posts()){
                         <span>Neumáticos  Verano</span>
                       </a>
                     </div>
-                  <div class="description"> Localiza en Feu Vert el mejor neumático de verano para los lugares más calurosos. </div>
+                  <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo.</div>
                     <div class="links">
                       <a href="">Neumáticos para verano Continental</a><br>
                       <a href="">Neumáticos para verano Firestone</a><br>
@@ -341,7 +318,7 @@ if(have_posts()){
                           <span>Neumáticos  Invierno</span>
                       </a>
                     </div>
-                    <div class="description"> Disfruta de la carretera haya nieve o hielo con los neumáticos de invierno de Feu Vert.                                </div>
+                    <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo.                                </div>
                     <div class="links">
                       <a href="">Neumáticos para invierno Continental</a><br>
                       <a href="">Neumáticos para invierno Firestone</a><br>
@@ -357,7 +334,7 @@ if(have_posts()){
                           <span>Neumáticos  All season</span>
                           </a>
                       </div>
-                      <div class="description"> Descubre los neumáticos All Season de todas las marcas disponibles en Feu Vert.                                </div>
+                      <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quos aliquam dignissimo.                               </div>
                           <div class="links">
                             <a href="">Neumáticos all season Michelin</a><br>
                           </div>                                                                                                                                                                                          </div>
