@@ -234,11 +234,18 @@ body a:hover{
 		display: block;
 	}
 
-.col-1-5 {
+	.col-1-5 {
      width: 100%; 
 }
 	.page-heading h2{
 		font-size: 18px;
+	}
+	.page-heading{
+		padding: 20px 0;
+	}
+	.separador .row div{
+		margin-top: 30px;
+
 	}
 }
 
